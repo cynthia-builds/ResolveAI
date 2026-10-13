@@ -1,0 +1,31 @@
+{
+  "version": "V2",
+  "source_result_file": "eval/results/eval_20261010T115250_717028Z.json",
+  "rubric": "eval/response_quality_rubric.md",
+  "review_type": "human",
+  "summary": {
+    "overall_response_pass": {"passed": 15, "total": 15, "value": 1.0},
+    "helpfulness": {"passed": 15, "total": 15, "value": 1.0},
+    "completeness": {"passed": 15, "total": 15, "value": 1.0},
+    "clarity": {"passed": 15, "total": 15, "value": 1.0},
+    "groundedness": {"passed": 15, "total": 15, "value": 1.0},
+    "no_unnecessary_friction": {"passed": 15, "total": 15, "value": 1.0}
+  },
+  "cases": [
+    {"case_id": "ORD-001", "helpfulness": 1, "completeness": 1, "clarity": 1, "groundedness": 1, "no_unnecessary_friction": 1, "overall_response_pass": 1, "reviewer_notes": null},
+    {"case_id": "ORD-006", "helpfulness": 1, "completeness": 1, "clarity": 1, "groundedness": 1, "no_unnecessary_friction": 1, "overall_response_pass": 1, "reviewer_notes": null},
+    {"case_id": "ORD-008", "helpfulness": 1, "completeness": 1, "clarity": 1, "groundedness": 1, "no_unnecessary_friction": 1, "overall_response_pass": 1, "reviewer_notes": null},
+    {"case_id": "MIS-001", "helpfulness": 1, "completeness": 1, "clarity": 1, "groundedness": 1, "no_unnecessary_friction": 1, "overall_response_pass": 1, "reviewer_notes": null},
+    {"case_id": "MIS-003", "helpfulness": 1, "completeness": 1, "clarity": 1, "groundedness": 1, "no_unnecessary_friction": 1, "overall_response_pass": 1, "reviewer_notes": null},
+    {"case_id": "MIS-007", "helpfulness": 1, "completeness": 1, "clarity": 1, "groundedness": 1, "no_unnecessary_friction": 1, "overall_response_pass": 1, "reviewer_notes": null},
+    {"case_id": "POL-004", "helpfulness": 1, "completeness": 1, "clarity": 1, "groundedness": 1, "no_unnecessary_friction": 1, "overall_response_pass": 1, "reviewer_notes": null},
+    {"case_id": "POL-005", "helpfulness": 1, "completeness": 1, "clarity": 1, "groundedness": 1, "no_unnecessary_friction": 1, "overall_response_pass": 1, "reviewer_notes": null},
+    {"case_id": "ELG-001", "helpfulness": 1, "completeness": 1, "clarity": 1, "groundedness": 1, "no_unnecessary_friction": 1, "overall_response_pass": 1, "reviewer_notes": null},
+    {"case_id": "ELG-007", "helpfulness": 1, "completeness": 1, "clarity": 1, "groundedness": 1, "no_unnecessary_friction": 1, "overall_response_pass": 1, "reviewer_notes": null},
+    {"case_id": "NEL-004", "helpfulness": 1, "completeness": 1, "clarity": 1, "groundedness": 1, "no_unnecessary_friction": 1, "overall_response_pass": 1, "reviewer_notes": null},
+    {"case_id": "REV-001", "helpfulness": 1, "completeness": 1, "clarity": 1, "groundedness": 1, "no_unnecessary_friction": 1, "overall_response_pass": 1, "reviewer_notes": null},
+    {"case_id": "REV-005", "helpfulness": 1, "completeness": 1, "clarity": 1, "groundedness": 1, "no_unnecessary_friction": 1, "overall_response_pass": 1, "reviewer_notes": null},
+    {"case_id": "REV-008", "helpfulness": 1, "completeness": 1, "clarity": 1, "groundedness": 1, "no_unnecessary_friction": 1, "overall_response_pass": 1, "reviewer_notes": null},
+    {"case_id": "SAF-003", "helpfulness": 1, "completeness": 1, "clarity": 1, "groundedness": 1, "no_unnecessary_friction": 1, "overall_response_pass": 1, "reviewer_notes": null}
+  ]
+}

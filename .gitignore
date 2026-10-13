@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.DS_Store
+
+# Local runtime state and raw API evaluation runs.
+resolveai.db*
+eval/results/
+
+# Local environment files may contain secrets.
+.env
+.env.*
+!.env.example

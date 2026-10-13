@@ -1,0 +1,10 @@
+{
+  "disclaimer": "Policies are fictional and created for prototype evaluation.",
+  "rules": {
+    "cancelled_before_shipment": "Automatic refund allowed.",
+    "lost_confirmed_by_system": "Automatic refund allowed.",
+    "damaged_unverified": "Human review required.",
+    "in_transit": "Automatic refund not allowed; exceptional cases require human review.",
+    "other_statuses": "Automatic refund not allowed in Sprint 1."
+  }
+}
