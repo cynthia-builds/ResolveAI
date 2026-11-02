@@ -6,13 +6,13 @@ ResolveAI is a local e-commerce support prototype that uses an LLM to understand
 
 ## Watch Demo
 
-**[▶ Watch the 61-second ResolveAI product demo](https://github.com/cynthia-builds/ResolveAI/releases/download/demo-v1/resolveai-demo.mp4)**
+**[▶ Watch the 61-second ResolveAI product demo in GitHub](https://github.com/cynthia-builds/ResolveAI/issues/1)**
 
 The real workflow demo covers order tracking, deterministic refund safety for an in-transit order, and explicit user confirmation before a simulated refund. No real payment is made.
 
-[![Watch the ResolveAI demo](docs/images/resolveai-landing.jpg)](https://github.com/cynthia-builds/ResolveAI/releases/download/demo-v1/resolveai-demo.mp4)
+[![Watch the ResolveAI demo](docs/images/resolveai-landing.jpg)](https://github.com/cynthia-builds/ResolveAI/issues/1)
 
-[View the GitHub Release](https://github.com/cynthia-builds/ResolveAI/releases/tag/demo-v1)
+[Open the inline GitHub player](https://github.com/cynthia-builds/ResolveAI/issues/1) · [Download the original MP4](https://github.com/cynthia-builds/ResolveAI/releases/download/demo-v1/resolveai-demo.mp4) · [View the GitHub Release](https://github.com/cynthia-builds/ResolveAI/releases/tag/demo-v1)
 
 ## At a glance
 
